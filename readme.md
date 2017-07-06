@@ -1,3 +1,4 @@
+![Logo](http://www.bluefiredev.com/wp-content/uploads/2017/07/Logomakr_3Z14FZ.png)
 ## Fakerest
 This is a fake rest api, to help developers perform small test. Developed using Lumen - Laravel Microframework. 
 
