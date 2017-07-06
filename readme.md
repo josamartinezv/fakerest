@@ -1,13 +1,13 @@
 ## Fakerest
 This is a fake rest api, to help developers perform small test. Developed using Lumen - Laravel Microframework. 
 
-## DEMO
+## Demo
  http://fakeapi.bluefiredev.com/
- Fake users:
- http://fakeapi.bluefiredev.com/users 
- Fake places:
+ - Fake users:
+   http://fakeapi.bluefiredev.com/users 
+ - Fake places:
  http://fakeapi.bluefiredev.com/places
- Fake posts
+ - Fake posts
  http://fakeapi.bluefiredev.com/posts
  
 ## License
